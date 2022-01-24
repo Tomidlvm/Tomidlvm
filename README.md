@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Tomidlvm
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on anyhing that will hepl me
+- 💞️ I’m looking to collaborate on anyhing that will help me
 - 📫 How to reach me delavegamarzaritomas@gmail.com
 
 <!---
